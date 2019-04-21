@@ -6,7 +6,7 @@ You can submit issues about projects which are listed below.
 
 ### Libraries
 
-* Wojdav Boostrap Mvc (Wojdav Bootstrap Mvc Core, Wojdav Bootstrap Mvc Asp Net Core, Wojdav Bootstrap Mvc Asp Net Mvc 5)
+* Wojdav Boostrap Mvc (Wojdav Bootstrap Mvc Core, Wojdav Bootstrap Mvc Asp Net Core, Wojdav Bootstrap Mvc Asp Net Mvc 5).
 * WQuery.
 * WHtmlParser.
 
